@@ -24,8 +24,8 @@ from urllib.parse import urlparse
 import time
 import websockets
 
-appid = "6033239469"    # 项目的 appid
-token = "4i-QcvhTi7iOXMeqbPyKeL-Skah9m4kJ"    # 项目的 token
+appid = ""    # 项目的 appid
+token = ""    # 项目的 token
 cluster = "volcengine_input_common"  # 请求的集群
 audio_path = "temp_audio.wav"  # 本地音频路径
 audio_format = "wav"   # wav 或者 mp3，根据实际音频格式设置
