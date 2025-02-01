@@ -12,8 +12,8 @@ import requests
 import play
 
 # 填写平台申请的appid, access_token以及cluster
-appid = "6033239469"
-access_token= "4i-QcvhTi7iOXMeqbPyKeL-Skah9m4kJ"
+appid = ""
+access_token= ""
 cluster = "volcano_tts"
 
 voice_type = "BV700_V2_streaming"
